@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files and directories
+__pycache__/

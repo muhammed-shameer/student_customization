@@ -9,6 +9,8 @@
                 <tree string="Student Customization">
                     <field name="name"/>
                     <field name="age"/>
+                    <field name="dob"/>
+                    <field name="birth"/>
                     <field name="classes"/>
 
 
@@ -27,6 +29,8 @@
                         <group>
                             <field name="name"/>
                             <field name="age"/>
+                            <field name="dob"/>
+                            <field name="birth"/>
                             <field name="classes"/>
 
 
